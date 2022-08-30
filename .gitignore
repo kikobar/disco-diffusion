@@ -147,3 +147,8 @@ cython_debug/
 AdaBins/
 CLIP/
 disco-diffusion/
+guided-diffusion/
+open_clip/
+progress.png
+pytorch3d-lite/
+ResizeRight/
