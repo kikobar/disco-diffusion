@@ -1,4 +1,4 @@
-# This fork attempt to replace all Google Colab specific code, so this notebook could run on AWS SageMaker or any standard JupyterLab server.
+# This fork attempt to replace all Google Colab specific code, so this notebook runs on AWS SageMaker or any standard JupyterLab server.
 
 ********************
 
