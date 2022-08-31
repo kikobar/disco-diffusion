@@ -2,7 +2,7 @@
 
 The code shall still run on Google Colab. The intention is just to make the code agnostic to any Jupyter platform.
 
-DISCLAIMER: Our target platform is ASW SageMaker Studio.
+DISCLAIMER: Our target platform is AWS SageMaker Studio.
 
 ********************
 
