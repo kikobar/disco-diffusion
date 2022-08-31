@@ -1,3 +1,7 @@
+# This fork attempt to replace all Google Colab specific code, so this notebook could run on AWS SageMaker or any standard JupyterLab server.
+
+********************
+
 # Disco Diffusion
 
 <a href="https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
